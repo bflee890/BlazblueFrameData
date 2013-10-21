@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Blazblue Frame Data</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search_message">Enter a String</string>
+    <string name="button_search">Search</string>
+    <string name="characters">Characters</string>
+    <string name="welcome">Welcome to BB Frame Data App</string>
+    <string name="title_character_list">Characters</string>
+    <string name="title_character_detail">Character Detail</string>
+
+</resources>

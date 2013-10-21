@@ -1,0 +1,48 @@
+{
+	"Character": {
+		"Ragna": {
+			"5A": {
+				"Damage":		"300",
+				"Cancel":		"CSOJR",
+				"P1":			"100",
+				"P2":			"77",
+				"Starter":		"S",
+				"SMP":			"-",
+				"Guard":		"all",
+				"Level":		"1",
+				"Attribute":	"B",
+				"Startup":		"5",
+				"Active":		"3",
+				"Recovery":		"9",
+				"Frame Adv":	"0",
+				"Blockstun":	"11",
+				"Ground Hit":	"12",
+				"Ground CH":	"16",
+				"Air Hit": 		"14",
+				"Air CH": 		"26",
+				"Invul":		"-"
+			},
+			"C Inferno Divider": {
+				"Damage":		"550*2",
+				"Cancel":		"R",
+				"P1":			"80",
+				"P2":			"92",
+				"Starter":		"S",
+				"SMP":			"2",
+				"Guard":		"HL",
+				"Level":		"4",
+				"Attribute":	"B",
+				"Startup":		"9",
+				"Active":		"5,8",
+				"Recovery":		"20+19L",
+				"Frame Adv":	"-28",
+				"Blockstun":	"18",
+				"Ground Hit":	"F42",
+				"Ground CH":	"F71",
+				"Air Hit": 		"42",
+				"Air CH": 		"71",
+				"Invul":		"1-17 All"
+			}
+		}
+	}
+}
